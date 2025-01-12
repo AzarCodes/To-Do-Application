@@ -36,7 +36,11 @@ cd your-repo-name
 ```bash
 pip install -r requirements.txt
 ```
-### 3. Run the Application
+### 3. Run the Application Locally
 ```bash
 python app.py
+```
+The app will be available at:
+```bash
+http://127.0.0.1:5000
 ```
